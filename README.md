@@ -1,16 +1,19 @@
-#Operating Systems
-##My Shell
-###Papageorgiou Dimitrios 8884
+# Operating Systems
+
+## My Shell
+
+### Papageorgiou Dimitrios 8884
 
 \---------------------------------------------
 
-####Installation
+#### Installation
+
     `>cd ~/Download/8884
     `make
 
-####How to use
+#### How to use
 
-####Special characters
+#### Special characters
 
 ; - run 2 commands in a row
 
@@ -20,7 +23,7 @@
 
 | - run the second command with input from the output of the first command
 
-###\*\*\_Interactive Mode_**
+### Interactive Mode
 
 In the installation folder type:
 
@@ -38,7 +41,7 @@ It supports 1 redirection and 1 pipe in row
 
 Type `>quit` to exit 
 
-### \*\*\_Batch Mode_**
+### Batch Mode
 
 In the installation folder type:
 
